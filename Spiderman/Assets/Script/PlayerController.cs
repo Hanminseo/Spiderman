@@ -4,6 +4,7 @@ public class PlayerController : MonoBehaviour
 {
     public float speed = 15f;
     private Rigidbody rb;
+
     // Start is called before the first frame update
     public void Awake()
     {
